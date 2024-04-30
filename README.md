@@ -4,6 +4,12 @@ Welcome to `Flutter Plumage Couture`, the innovative app that transforms the bre
 
 Flutter Plumage Couture application, a dress sketch generator that leverages the power of Google's Generative AI technology.
 
+- See Flutter Plumage Couture in action!<br>
+[Watch the video demo here!](https://youtu.be/6RIwCgo-6iM?t=18)
+
+This app isn't just about creating dress sketches; it's about igniting your design inspiration. <br>
+![Flutter Plumage Couture Screenshot](./Dress%20Sketch/output_image_0%20(26).png)
+
 ## What it does:
 
 Flutter Plumage Couture allows you to create a dress sketch based on:
