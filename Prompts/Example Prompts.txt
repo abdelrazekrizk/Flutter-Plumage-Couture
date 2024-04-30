@@ -1,0 +1,38 @@
+# example prompts that could guide an AI model to generate such sketches:
+
+“Create a dress sketch inspired by the dominant colors of this picture,
+focusing on the color palette without incorporating any features into the design.”
+
+“Create a SWIM DRESS sketch inspired by the dominant colors of this picture,
+focusing on the color palette without incorporating any features into the design.”
+
+
+1- “Design a summer dress inspired by the vibrant colors of a Peacock.”
+2- “Create an evening gown sketch that incorporates the dominant blue and green hues of a Macaw.”
+3- “Generate a cocktail dress design using the bright red and yellow colors found in the Scarlet Macaw.”
+4- “Sketch a casual sundress that matches the color palette of a Lilac-breasted Roller.”
+5- “Illustrate a formal dress using the elegant black and white tones of an Emperor Penguin.”
+6- “Conceive a bridesmaid’s dress inspired by the soft pastel shades of a Pink Robin.”
+7- “Draft a prom dress design that reflects the bold orange and black colors of a Baltimore Oriole.”
+8- “Develop a winter coat design using the rich reds and browns of a Northern Cardinal.”
+9- “Compose a fashion illustration for a skirt using the green and yellow colors of a Budgerigar.”
+10-“Formulate a concept for a blazer that captures the essence of the Rainbow Lorikeet’s colorful feathers.”
+
+
+“Create a dress sketch inspired by the dominant colors of this bird picture,
+focusing on the color palette without incorporating any bird features into the design.”
+
+“Create a dress sketch inspired by the dominant colors of this picture,
+focusing on the color palette without incorporating any features into the design.”
+
+“Create an evening gown sketch that incorporates the dominant blue and green hues of a Macaw.”
+
+"Design a summer dress The dress is a black and white dress with an orange belt. The black and white colors are inspired by the bird's feathers, and the orange color is inspired by the bird's beak. The dress is a simple and elegant design that is perfect for a formal occasion, his  picture,
+focusing on the color palette without incorporating any features into the design."
+
+
+For color extraction:
+“Extract the dominant colors from this bird picture.”
+
+For dress sketching:
+“Create a dress sketch using these extracted colors as the color palette.”

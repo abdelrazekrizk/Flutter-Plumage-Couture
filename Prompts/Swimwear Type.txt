@@ -1,0 +1,11 @@
+Swimwear Type	Description
+One-Piece Swimsuits	- Strapless One-Piece: A strapless swimsuit without any straps, flattering for smaller-chested women.
+- Swim Dress: A silhouette resembling a mini-dress, often with a skirt component, great for curvy figures.
+- Blouson: A loose-fitting top, similar to a breezy tank top, helpful for hiding the tummy.
+- Lace-Up: Features lacing down the front or back, adding allure and flattering all body types.
+- Cutout: Trendy style with fabric cutouts revealing different parts of the body.
+Bikinis	- Scoop Bikini Top: Universally flattering with a scoop neckline.
+- Triangle Bikini Top: Ideal for small busts, featuring triangle-shaped cups.
+- Underwire Bikini Top: Provides support and lift, suitable for all bust shapes.
+- Balconette Bikini Top: Creates a lovely lift for the chest.
+- Bandeau Bikini Top: Strapless fabric swath across the chest, great for lounging and tanning.

@@ -1,0 +1,9 @@
+Dress Type	Description
+Sundress	A sleeveless, lightweight dress perfect for beach days or casual outings.
+Floral Summer Dress	Embrace vibrant floral prints in this versatile style suitable for various body types.
+Sleeveless Dress	Stay cool during hot summer days with this sleeveless option, available in various colors.
+Extra-Long Summer Maxi Dress	Elegant floor-length dresses, ideal for occasions like church, graduation parties, or weddings.
+Wrap Dress	Chic and adaptable, wrap dresses can be dressed up or down for both professional and casual looks.
+Midi Dress	Falling just below the knees, midi dresses strike a balance between long and mini styles.
+Denim Dress	Denim isn’t just for jeans! Explore sundresses and other denim styles in various shades.
+Cover-Up Dresses	Perfect for beach days, these dresses are worn over swimsuits to provide extra coverage.
