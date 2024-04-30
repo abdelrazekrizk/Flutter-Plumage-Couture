@@ -1,0 +1,14 @@
+# Copyright (c) 2024 Abdelrazek Rizk
+
+# This software is created by Abdelrazek Rizk.
+# This copyright notice applies to the source code and associated files
+# for the Flutter Plumage Couture project.
+
+# Contact:
+# You can connect with the copyright holder on LinkedIn at:
+# https://www.linkedin.com/in/abdelrazek-rizk/
+
+# You can find more information about the project at:
+# https://abdelrazekrizk.github.io/
+
+All rights reserved.
