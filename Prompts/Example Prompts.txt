@@ -6,7 +6,18 @@ focusing on the color palette without incorporating any features into the design
 “Create a SWIM DRESS sketch inspired by the dominant colors of this picture,
 focusing on the color palette without incorporating any features into the design.”
 
+“Create a dress sketch The dress inspired by the dominant colors of this picture, focusing on the color palette without incorporating any features into the design, with a focus on the colors and textures of the fabric,output as descripe and simple to prompot.”
 
+“Create a SWIM Bikinis The dress could be designed with bold blocks of red and blue, with smaller sections of green and yellow strategically placed to create a visually striking effect. * **Ombre or Gradient:** The colors could blend seamlessly from red to blue, creating a beautiful gradient effect that mimics the feathers of the macaw. * **Layering:** Different textures and fabrics in the chosen colors could be layered to add depth and dimension to the dress."
+
+
+“Detailed dress description inspired by the dominant colors of this picture. Focus on the color palette, excluding any bird features.
+
+
+“Detailed dress description inspired by the dominant colors of this picture. Focus on the color combination for a stylish and elegant design, excluding any bird features.
+
+
+"Using this image, identify and extract the dominant colors and create a dress sketch that incorporates these colors as the primary palette."
 1- “Design a summer dress inspired by the vibrant colors of a Peacock.”
 2- “Create an evening gown sketch that incorporates the dominant blue and green hues of a Macaw.”
 3- “Generate a cocktail dress design using the bright red and yellow colors found in the Scarlet Macaw.”

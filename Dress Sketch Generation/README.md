@@ -50,5 +50,6 @@ Feel free to experiment with different prompts to generate unique dress sketches
 ## Recource:
 * set up a project guide. [link here!](https://cloud.google.com/vertex-ai/docs/start/cloud-environment)
 * Set up Application Default Credentials Local development environment.[link here!](https://cloud.google.com/docs/authentication/provide-credentials-adc#google-idp)
+* Introduction to the Vertex AI SDK for Python [link here!](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk#write-code-with-vertex-ai-python-sdk)
 * Image Generation with Imagen on Vertex AI [link here!](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/vision/getting-started/image_generation.ipynb)
 * Prompt and image attribute guide. [link here!](https://cloud.google.com/vertex-ai/generative-ai/docs/image/img-gen-prompt-guide?_ga=2.128324367.-2094800479.1701746552&_gac=1.219926379.1701161688.CjwKCAiAvJarBhA1EiwAGgZl0LFQUFOFZUxfNPlzjB4T00PDiLeCIEYfY-coLbX9eUfHKr_i8VbtSBoCEJQQAvD_BwE#get-started)

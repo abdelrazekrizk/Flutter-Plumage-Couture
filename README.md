@@ -63,6 +63,7 @@ for visual image take the the text description for style details and add to Note
 
 ## Recource:
 * Get started with the Gemini API in web apps. [link here!](https://ai.google.dev/gemini-api/docs/get-started/web#initialize-model)
+* Gemini models [link here!](https://ai.google.dev/gemini-api/docs/models/gemini#model-variations)
 
 
 ## Conclusion:
